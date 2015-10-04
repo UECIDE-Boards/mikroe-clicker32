@@ -1,0 +1,6 @@
+Board_Data.c boards/MikroElektronika/mikroe-clicker32
+Board_Defs.h boards/MikroElektronika/mikroe-clicker32
+board.txt boards/MikroElektronika/mikroe-clicker32
+chipKIT-application-32MX534F064H.ld boards/MikroElektronika/mikroe-clicker32
+icons/ boards/MikroElektronika/mikroe-clicker32
+mikroe-clicker32.hex boards/MikroElektronika/mikroe-clicker32

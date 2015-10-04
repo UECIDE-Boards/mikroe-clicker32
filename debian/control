@@ -1,0 +1,26 @@
+Source: mikroe-clicker32
+Section: boards
+XBSC-Family: pic32
+Priority: extra
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: mikroe-clicker32
+Section: boards
+Architecture: all
+XBSC-Group: MikroElektronika
+Depends: chipkit
+Description: MikroElektronika PIC32MX Clicker
+ PIC32MX clicker is an amazingly compact starter development kit which brings innovative mikroBUS™ 
+ host socket to your favorite microcontroller. Connect the desired click board to enhance it with 
+ awesome features. It’s preprogrammed with fast USB HID bootloader. Use it to upload your 
+ firmware and clicker will become a working device. Board features all you need to get started: 
+ 32-bit PIC32MX534F064H microcontroller, USB connector, two LEDs and push buttons, reset 
+ button, mikroProg connector and headers for interfacing with external electronics.
+ .
+ **NOTE:** To use this board with UECIDE you will have to replace the bootloader with the one
+ provided by UECIDE.
+
+
+
